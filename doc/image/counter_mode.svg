@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Microsoft Visio, SVG Export에서 생성되었습니다. counter_mode.svg 페이지-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="11.027in" height="4.92459in"
+		viewBox="0 0 793.941 354.571" xml:space="preserve" color-interpolation-filters="sRGB" class="st9">
+	<v:documentProperties v:langID="1042" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#ffffff;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st2 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:3}
+		.st3 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st4 {stroke:#000000;stroke-dasharray:5.25,3.75;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st5 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st6 {fill:#000000;font-family:맑은 고딕;font-size:1.00001em}
+		.st7 {font-family:Microsoft Sans Serif;font-size:1em}
+		.st8 {font-family:Calibri;font-size:1em}
+		.st9 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>페이지-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="shape32-1" v:mID="32" v:groupContext="shape" transform="translate(0.12,-0.12)">
+			<title>사각형</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<rect x="0" y="0.240003" width="793.701" height="354.331" class="st1"/>
+		</g>
+		<g id="shape1-3" v:mID="1" v:groupContext="shape" transform="translate(14.2932,-198.545)">
+			<title>시트.1</title>
+			<path d="M0 354.57 L368.5 354.57" class="st2"/>
+		</g>
+		<g id="shape2-6" v:mID="2" v:groupContext="shape" transform="translate(368.864,14.2932) rotate(90)">
+			<title>시트.2</title>
+			<path d="M0 354.57 L141.73 354.57" class="st2"/>
+		</g>
+		<g id="shape3-9" v:mID="3" v:groupContext="shape" transform="translate(-171.536,-145.948) rotate(-31.6075)">
+			<title>시트.3</title>
+			<path d="M0 354.57 L216.34 354.57" class="st3"/>
+		</g>
+		<g id="shape4-12" v:mID="4" v:groupContext="shape" transform="translate(553.116,42.6397) rotate(90)">
+			<title>시트.4</title>
+			<path d="M0 354.57 L113.39 354.57" class="st4"/>
+		</g>
+		<g id="shape5-15" v:mID="5" v:groupContext="shape" transform="translate(12.7156,-145.948) rotate(-31.6075)">
+			<title>시트.5</title>
+			<path d="M0 354.57 L216.34 354.57" class="st3"/>
+		</g>
+		<g id="shape6-18" v:mID="6" v:groupContext="shape" transform="translate(411.144,-198.545)">
+			<title>시트.6</title>
+			<path d="M0 354.57 L368.5 354.57" class="st2"/>
+		</g>
+		<g id="shape7-21" v:mID="7" v:groupContext="shape" transform="translate(765.714,14.2932) rotate(90)">
+			<title>시트.7</title>
+			<path d="M0 354.57 L141.73 354.57" class="st2"/>
+		</g>
+		<g id="shape8-24" v:mID="8" v:groupContext="shape" transform="translate(409.566,457.999) rotate(-148.392)">
+			<title>시트.8</title>
+			<path d="M0 354.57 L216.34 354.57" class="st3"/>
+		</g>
+		<g id="shape9-27" v:mID="9" v:groupContext="shape" transform="translate(949.966,42.6397) rotate(90)">
+			<title>시트.9</title>
+			<path d="M0 354.57 L113.39 354.57" class="st4"/>
+		</g>
+		<g id="shape10-30" v:mID="10" v:groupContext="shape" transform="translate(781.225,-259.333) rotate(31.6075)">
+			<title>시트.10</title>
+			<path d="M0 354.57 L216.34 354.57" class="st3"/>
+		</g>
+		<g id="shape11-33" v:mID="11" v:groupContext="shape" transform="translate(14.2932,-14.2932)">
+			<title>시트.11</title>
+			<path d="M0 354.57 L368.5 354.57" class="st2"/>
+		</g>
+		<g id="shape12-36" v:mID="12" v:groupContext="shape" transform="translate(368.864,198.545) rotate(90)">
+			<title>시트.12</title>
+			<path d="M0 354.57 L141.73 354.57" class="st2"/>
+		</g>
+		<g id="shape13-39" v:mID="13" v:groupContext="shape" transform="translate(-171.536,38.3044) rotate(-31.6075)">
+			<title>시트.13</title>
+			<path d="M0 354.57 L216.34 354.57" class="st3"/>
+		</g>
+		<g id="shape14-42" v:mID="14" v:groupContext="shape" transform="translate(553.116,226.892) rotate(90)">
+			<title>시트.14</title>
+			<path d="M0 354.57 L113.39 354.57" class="st4"/>
+		</g>
+		<g id="shape15-45" v:mID="15" v:groupContext="shape" transform="translate(384.375,-75.0814) rotate(31.6075)">
+			<title>시트.15</title>
+			<path d="M0 354.57 L216.34 354.57" class="st3"/>
+		</g>
+		<g id="shape17-48" v:mID="17" v:groupContext="shape" transform="translate(411.144,-14.2932)">
+			<title>시트.17</title>
+			<path d="M0 354.57 L368.5 354.57" class="st2"/>
+		</g>
+		<g id="shape18-51" v:mID="18" v:groupContext="shape" transform="translate(765.714,198.545) rotate(90)">
+			<title>시트.18</title>
+			<path d="M0 354.57 L141.73 354.57" class="st2"/>
+		</g>
+		<g id="shape19-54" v:mID="19" v:groupContext="shape" transform="translate(409.566,642.251) rotate(-148.392)">
+			<title>시트.19</title>
+			<path d="M0 354.57 L216.34 354.57" class="st3"/>
+		</g>
+		<g id="shape20-57" v:mID="20" v:groupContext="shape" transform="translate(949.966,226.892) rotate(90)">
+			<title>시트.20</title>
+			<path d="M0 354.57 L113.39 354.57" class="st4"/>
+		</g>
+		<g id="shape21-60" v:mID="21" v:groupContext="shape" transform="translate(409.566,38.3044) rotate(-31.6075)">
+			<title>시트.21</title>
+			<path d="M0 354.57 L216.34 354.57" class="st3"/>
+		</g>
+		<g id="shape22-63" v:mID="22" v:groupContext="shape" transform="translate(382.797,397.21) rotate(180)">
+			<title>시트.22</title>
+			<path d="M0 354.57 L368.5 354.57" class="st4"/>
+		</g>
+		<g id="shape23-66" v:mID="23" v:groupContext="shape" transform="translate(779.648,397.21) rotate(180)">
+			<title>시트.23</title>
+			<path d="M0 354.57 L368.5 354.57" class="st4"/>
+		</g>
+		<g id="shape24-69" v:mID="24" v:groupContext="shape" transform="translate(779.648,581.462) rotate(180)">
+			<title>시트.24</title>
+			<path d="M0 354.57 L368.5 354.57" class="st4"/>
+		</g>
+		<g id="shape25-72" v:mID="25" v:groupContext="shape" transform="translate(382.797,581.462) rotate(180)">
+			<title>시트.25</title>
+			<path d="M0 354.57 L368.5 354.57" class="st4"/>
+		</g>
+		<g id="shape26-75" v:mID="26" v:groupContext="shape" transform="translate(127.679,-320.277)">
+			<title>시트.26</title>
+			<desc>StepUp + Reset</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="70.8661" cy="344.571" width="141.74" height="20"/>
+			<rect x="0" y="334.571" width="141.732" height="20" class="st5"/>
+			<text x="27.73" y="348.17" class="st6" v:langID="1042"><v:paragraph v:horizAlign="1"/><v:tabList/>StepUp + Reset</text>		</g>
+		<g id="shape28-78" v:mID="28" v:groupContext="shape" transform="translate(524.529,-320.277)">
+			<title>시트.28</title>
+			<desc>StepDown + Reset</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="70.8661" cy="344.571" width="141.74" height="20"/>
+			<rect x="0" y="334.571" width="141.732" height="20" class="st5"/>
+			<text x="19.77" y="348.17" class="st6" v:langID="1042"><v:paragraph v:horizAlign="1"/><v:tabList/>StepDown + Reset</text>		</g>
+		<g id="shape29-81" v:mID="29" v:groupContext="shape" transform="translate(510.356,-136.026)">
+			<title>시트.29</title>
+			<desc>StepDown + Turnaround</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="85.0394" cy="344.571" width="170.08" height="20"/>
+			<rect x="0" y="334.571" width="170.079" height="20" class="st5"/>
+			<text x="19.04" y="348.35" class="st6" v:langID="1042"><v:paragraph v:horizAlign="1"/><v:tabList/>StepDown + <tspan
+						class="st7">T</tspan><tspan class="st8" v:langID="1033">urnaround</tspan></text>		</g>
+		<g id="shape30-86" v:mID="30" v:groupContext="shape" transform="translate(127.679,-136.026)">
+			<title>시트.30</title>
+			<desc>StepUp + Turnaround</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="70.8661" cy="344.571" width="141.74" height="20"/>
+			<rect x="0" y="334.571" width="141.732" height="20" class="st5"/>
+			<text x="12.83" y="348.35" class="st6" v:langID="1042"><v:paragraph v:horizAlign="1"/><v:tabList/>StepUp + <tspan
+						class="st7">T</tspan><tspan class="st8" v:langID="1033">urnaround</tspan></text>		</g>
+	</g>
+</svg>
